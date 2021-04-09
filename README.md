@@ -1,6 +1,6 @@
 # Password Generator | HTML & JS
 ---
-* Demo: link here
+* Demo: https://swothh.github.io/password/
 ---
 ```
 by Swôth
